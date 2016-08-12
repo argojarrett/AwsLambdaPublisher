@@ -1,0 +1,16 @@
+{
+  "name": "lamdbapublisher",
+  "version": "0.0.1",
+  "description": "Publishes NodeJs code to the AWS Lambda service",
+  "main": "lp.js",
+  "dependencies": {
+    "underscore.deferred": "^0.4.0",
+    "aws-sdk": "^2.4.12"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
